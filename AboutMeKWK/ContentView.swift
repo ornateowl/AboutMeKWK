@@ -12,6 +12,7 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Color(.systemGray3)
+            //randomComment
                 .ignoresSafeArea()
             VStack(alignment: .center, spacing: 20.0) {
                 Text("Aishwarya Nambi")
